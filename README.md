@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @max-proj17
+- 👋 Hi, I’m Max
 - 👀 I’m interested in Computer Vision and VR/AR Technology!
 - 🌱 I’m currently learning Data structures, tree traversals, and recursive methods
 - 💞️ I’m looking to collaborate on any project that can expand and/or improve my knowledge/usage of fundamental programming concepts.
