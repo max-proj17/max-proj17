@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Max
+- 👋 Hi, I’m Max. I'm currently working as a Dining Hall Associate at the University of Iowa.
 - 👀 I’m interested in Computer Vision and VR/AR Technology!
 - 🌱 I’m currently practicing/studying multithreading and networking applications.
 - 💞️ I’m looking to collaborate on any project that can expand and/or improve my knowledge/usage of fundamental programming concepts.
