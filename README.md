@@ -2,7 +2,6 @@
 - 👀 I’m interested in Computer Vision and VR/AR Technology!
 - 🌱 I’m currently practicing/studying multithreading and networking applications.
 - 💞️ I’m looking to collaborate on any project that can expand and/or improve my knowledge/usage of fundamental programming concepts.
-- 📫 How to reach me: email: maxfinch7@gmail.com
 - The COQUI fighting game can be played here: https://coqui-fighting-game.netlify.app/
 - Player Controls:  Player 1 (W, A, S, D, Space), Player 2 (ArrowKeys)
 <!---
