@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Max. I'm currently working as a Dining Hall Associate at the University of Iowa.
-- 👀 I’m interested in Computer Vision and VR/AR Technology!
-- 🌱 I’m currently practicing/studying multithreading and networking applications.
+- 👋 Hi, I’m Max. I'm currently working as a undergraduate engineer for TRACERS, a NASA x University of Iowa program.
+- 👀 I’m interested in Computer Vision, Robotics and VR/AR Technology!
+- 🌱 I’m currently reviewing multithreading and designing a robotics project to complete during the schoo year.
 - 💞️ I’m looking to collaborate on any project that can expand and/or improve my knowledge/usage of fundamental programming concepts.
-- The COQUI fighting game can be played here: https://coqui-fighting-game.netlify.app/
+- The COQUI fighting game I created can be played here: https://coqui-fighting-game.netlify.app/
 - Player Controls:  Player 1 (W, A, S, D, Space), Player 2 (ArrowKeys)
 <!---
 max-proj17/max-proj17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
