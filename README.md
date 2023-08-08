@@ -5,6 +5,7 @@
 
 Notes: 
 - The "Embedded-Systems-Projects" repository's linguist is not detetcting the languages I used correctly. No C++ was used. Only C and AVR Assembly
+- No work from my TRACERS position will be here because it is the property of the University of Iowa
 - The COQUI fighting game I created can be played here: https://coqui-fighting-game.netlify.app/
 - Player Controls:  Player 1 (W, A, S, D, Space), Player 2 (ArrowKeys)
 <!---
