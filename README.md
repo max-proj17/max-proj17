@@ -2,6 +2,9 @@
 - 👀 I’m interested in Computer Vision, Robotics and VR/AR Technology!
 - 🌱 I’m currently reviewing multithreading and designing a robotics project to complete during the schoo year.
 - 💞️ I’m looking to collaborate on any project that can expand and/or improve my knowledge/usage of fundamental programming concepts.
+
+Notes: 
+- The "Embedded-Systems-Projects" repository's linguist is not detetcting the languages I used correctly. No C++ was used. Only C and AVR Assembly
 - The COQUI fighting game I created can be played here: https://coqui-fighting-game.netlify.app/
 - Player Controls:  Player 1 (W, A, S, D, Space), Player 2 (ArrowKeys)
 <!---
