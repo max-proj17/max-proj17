@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Max. I'm currently working as a undergraduate engineer for TRACERS, a NASA x University of Iowa program.
 - 👀 I’m interested in Computer Vision, Robotics and VR/AR Technology!
 - 🌱 I’m currently reviewing multithreading and designing a robotics project to complete during the school year.
-- 💞️ I’m looking to collaborate on any project that can expand and/or improve my knowledge/usage of fundamental programming concepts.
+- 💥 I’m looking to collaborate on any project that can expand and/or improve my knowledge/usage of fundamental programming concepts.
 
 Notes: 
 - The "Embedded-Systems-Projects" repository's linguist is not detetcting the languages I used correctly. No C++ was used. Only C and AVR Assembly
