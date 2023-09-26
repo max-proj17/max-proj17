@@ -8,6 +8,9 @@ Notes:
 - No work from my TRACERS position will be here because it is the property of the University of Iowa
 - The COQUI fighting game I created can be played here: https://coqui-fighting-game.netlify.app/
 - Player Controls:  Player 1 (W, A, S, D, Space), Player 2 (ArrowKeys)
+
+Updates:
+- [9/24/23] My UIowa Hackathon Team won at ✨3rd✨ place with Dubious Studio!
 <!---
 max-proj17/max-proj17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
