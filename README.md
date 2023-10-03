@@ -1,17 +1,33 @@
-- 👋 Hi, I’m Max. I'm currently working as a undergraduate engineer for TRACERS, a NASA x University of Iowa program.
-- 👀 I’m interested in Computer Vision, Robotics and VR/AR Technology!
-- 🌱 I’m currently reviewing multithreading and designing a robotics project to complete during the school year.
-- 💥 I’m looking to collaborate on any project that can expand and/or improve my knowledge/usage of fundamental programming concepts.
+### Hi there, I'm Max! 👋
 
-Notes: 
-- The "Embedded-Systems-Projects" repository's linguist is not detetcting the languages I used correctly. No C++ was used. Only C and AVR Assembly
-- No work from my TRACERS position will be here because it is the property of the University of Iowa
-- The COQUI fighting game I created can be played here: https://coqui-fighting-game.netlify.app/
-- Player Controls:  Player 1 (W, A, S, D, Space), Player 2 (ArrowKeys)
+🚀 I'm an undergraduate engineer working with the TRACERS program, a collaboration between NASA and the University of Iowa.
 
-Updates:
-- [9/24/23] My UIowa Hackathon Team won at ✨3rd✨ place with Dubious Studio!
-<!---
-max-proj17/max-proj17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 **Areas of Interest**: Computer Vision, Robotics, VR/AR Technology.
+
+🛠 **Technical Skills**:
+- Languages: C, C++, AVR Assembly, Python, Java, JavaScript 
+- Tools: Git, ROS, Docker
+  
+🌟 **Achievements**:
+- Secured 3rd place at the UIowa Hackathon with Dubious Studio.
+
+🎮 **Live Projects**:
+- [COQUI Fighting Game](https://coqui-fighting-game.netlify.app/) - A dynamic fighting game. Player Controls: Player 1 (W, A, S, D, Space), Player 2 (ArrowKeys).
+
+📚 **Currently**:
+- Reviewing multithreading concepts.
+- Contributing to the Computer Vision team in the UIowa Robotics Club
+
+🤝 **Collaboration**: Open to collaborating on projects that enhance my understanding and application of core programming concepts.
+
+❗ **Notes**:
+- The "Embedded-Systems-Projects" repository primarily uses C and AVR Assembly. No C++ was involved.
+- Work from my TRACERS position is proprietary to the University of Iowa and won't be showcased here.
+
+📫 **Contact**:
+- [LinkedIn](www.linkedin.com/in/maxfinch2002)
+
+
+---
+
+_Last Updated: 9/24/23_
