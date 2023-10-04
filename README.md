@@ -16,7 +16,7 @@
 
 📚 **Currently**:
 - Reviewing multithreading concepts.
-- Contributing to the Computer Vision team in the UIowa Robotics Club
+- Contributing to the Computer Vision team in the UIowa Robotics Club [Intel RealSense Depth Mapping Script](https://github.com/roboticsatiowa/Rover/blob/dev/Computer-Vision/src/camera_test.py)
 
 🤝 **Collaboration**: Open to collaborating on projects that enhance my understanding and application of core programming concepts.
 
