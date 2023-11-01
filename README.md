@@ -16,6 +16,7 @@
 
 📚 **Currently**:
 - Reviewing multithreading concepts.
+- Migrating Dubious Studio to C++
 - Creating a 6DOF Inverse Kinematics demo with knowledge from my Robotics & Automation course from Spring 2023  
 - Contributing to the Computer Vision team in the UIowa Robotics Club [Intel RealSense Depth Mapping Script](https://github.com/roboticsatiowa/Rover/blob/dev/Computer-Vision/src/camera_test.py)
 
