@@ -12,7 +12,7 @@
 - Secured 3rd place at the UIowa Hackathon with Dubious Studio.
 
 🎮 **Live Projects**:
-- [COQUI Fighting Game](https://coqui-fighting-game.netlify.app/) - A dynamic fighting game. Player Controls: Player 1 (W, A, S, D, Space), Player 2 (ArrowKeys).
+- [COQUI Fighting Game](https://coqui-fighting-game.netlify.app/) - A dynamic fighting game made with JavaScript. Player Controls: Player 1 (W, A, S, D, Space), Player 2 (ArrowKeys).
 
 📚 **Currently**:
 - Reviewing multithreading concepts.
