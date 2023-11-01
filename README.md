@@ -22,7 +22,7 @@
 🤝 **Collaboration**: Open to collaborating on projects that enhance my understanding and application of core programming concepts.
 
 ❗ **Notes**:
-- The "Embedded-Systems-Projects" repository primarily uses C and AVR Assembly. No C++ was involved.
+- The "Embedded-Systems-Projects" repository primarily uses C and AVR Assembly.
 - Work from my TRACERS position is proprietary to the University of Iowa and won't be showcased here.
 
 📫 **Contact**:
