@@ -2,7 +2,7 @@
 
 🚀 I'm an undergraduate engineer working with the [TRACERS program](https://tracers.physics.uiowa.edu/), a collaboration between NASA and the University of Iowa. I also work for [Holo Reality Labs](https://www.holorealitylab.com/), a research group centered around 3D vision solutions, VR/AR Systems and human computer interaction! Check out my full [portfolio](https://max-proj17.github.io/)!
 
-🔭 **Areas of Interest**: Art Programs, Computer Vision, Robotics, Control Systems, VR/AR Technology.
+🔭 **Areas of Interest**: Embedded Systems, Computer Vision, Robotics, Control Systems, VR/AR Technology.
 
 🛠 **Technical Skills**:
 - Languages: C, C++, AVR Assembly, Python, Java, JavaScript 
