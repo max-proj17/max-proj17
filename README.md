@@ -1,6 +1,6 @@
 ### Hi there, I'm Max! 👋
 
-🚀 I'm an undergraduate engineer working with the [TRACERS program](https://tracers.physics.uiowa.edu/), a collaboration between NASA and the University of Iowa. I also work for [Holo Reality Labs](https://www.holorealitylab.com/), a research group centered around 3D vision solutions, VR/AR Systems and human computer interaction! Check out my full [portfolio](https://max-proj17.github.io/)!
+🚀 I'm a Autonomy Software Engineer working on autonomous vehicles for Hexagon A&P! Check out my full [portfolio](https://max-proj17.github.io/)!
 
 🔭 **Areas of Interest**: Embedded Systems, Robotics, Control Systems.
 
@@ -15,7 +15,8 @@
 - [COQUI Fighting Game](https://coqui-fighting-game.netlify.app/) - A dynamic fighting game made with JavaScript. Player Controls: Player 1 (W, A, S, D, Space), Player 2 (ArrowKeys).
 
 📚 **Currently**:
-- Contributing to the Computer Vision team in the UIowa Robotics Club [Intel RealSense Depth Mapping Script](https://github.com/roboticsatiowa/Rover/blob/dev/Computer-Vision/src/camera_test.py)
+- Reviewing control systems concepts.
+- Designing a 6 DOF robotic arm with CAN bus.
 
 🤝 **Collaboration**: Open to collaborating on projects that enhance my understanding and application of core programming concepts.
 
@@ -29,4 +30,4 @@
 
 ---
 
-_Last Updated: 10/20/23_
+_Last Updated: 03/05/2025_
