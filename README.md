@@ -1,6 +1,6 @@
 ### Hi there, I'm Max! 👋
 
-🚀 I'm a Autonomy Software Engineer working on autonomous vehicles for Hexagon A&P! Check out my full [portfolio](https://max-proj17.github.io/)!
+🚀 I'm a Autonomy Software Engineer working on autonomous vehicles for Hexagon A&P! Check out my full finished project [portfolio](https://max-proj17.github.io/)!
 
 🔭 **Areas of Interest**: Embedded Systems, Robotics, Control Systems.
 
@@ -17,7 +17,7 @@
 📚 **Currently**:
 - Working on proprietary autnomous vehicle software.
 - Reviewing control systems concepts.
-- Designing a 6 DOF robotic arm with CAN bus.
+- Building a self-balancing robot using PID control and a Kalman Filter.
 
 🤝 **Collaboration**: Open to collaborating on projects that enhance my understanding and application of core programming concepts.
 
