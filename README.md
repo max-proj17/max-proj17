@@ -1,6 +1,6 @@
 ### Hi there, I'm Max! 👋
 
-🚀 I'm a Autonomy Software Engineer working on autonomous vehicles for Hexagon A&P! Check out my full finished project [portfolio](https://max-proj17.github.io/)!
+🚀 I'm a Autonomy Software Engineer working on autonomous vehicles for Hexagon A&P! Check out my full finished project [portfolio](maximeliofinchportfolio.vercel.app )!
 
 🔭 **Areas of Interest**: Embedded Systems, Robotics, Control Systems.
 
